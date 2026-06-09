@@ -12,5 +12,4 @@ Conclusion: Ashwagandha demonstrates multimodal neuroimmune modulation, offering
 Keywords
 Ashwagandha; chronic stress; immunomodulation; neuroinflammation
 
-DOI: https://doi.org/10.13057/smj.v8i2.105715
 https://jurnal.uns.ac.id/SMedJour/article/view/105715
